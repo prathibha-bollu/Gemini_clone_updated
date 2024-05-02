@@ -2,6 +2,8 @@
 
 Gemini is a modern chatbot application built with React and Vite, featuring natural language processing capabilities to provide responses to user queries.
 
+<a href="https://drive.google.com/file/d/12LUu7MtmMk49xCCch6vvigaX-qvLsiZA/view?usp=sharing"><img src="https://drive.google.com/uc?export=download&id=12LUu7MtmMk49xCCch6vvigaX-qvLsiZA" alt="Video Demo"></a>
+
 ## Features
 
 - **Interactive Chat Interface**: Engage with Gemini through a user-friendly chat interface.

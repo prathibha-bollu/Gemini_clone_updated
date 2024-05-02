@@ -43,6 +43,7 @@ import {
       history: [
       ],
     });
+    
   
     const result = await chat.sendMessage(prompt);
     const response = result.response;
