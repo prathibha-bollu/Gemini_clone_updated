@@ -22,7 +22,7 @@ const newChat = () =>{
 }
     const onSent = async (prompt)=> {
 
-    setResultData("  ");
+    setResultData(" ");
      setLoading(true)
     setShowResult(true)
     let response;
@@ -61,10 +61,10 @@ const newChat = () =>{
         const nextWord = newResponseArray[i];
         delayPara(i,nextWord+" ")
     }
-    
+
     setLoading(false)
     setInput("")
-    } 
+    }
     const contextValue = {
          prevPrompts,
          setPrevPrompts,
