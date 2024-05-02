@@ -23,3 +23,6 @@ Gemini is a modern chatbot application built with React and Vite, featuring natu
 Gemini Chatbot integrates sophisticated Natural Language Processing (NLP) APIs, empowering it to analyze user input intelligently and generate contextually relevant responses. By seamlessly integrating these APIs, Gemini delivers a robust and engaging user experience, making it an ideal choice for businesses and individuals seeking advanced conversational AI solutions.
 
 
+## Important Note Regarding Gemini API Availability
+
+Please note that the Gemini API used in this project may not be accessible in all countries, particularly those within the European Union (EU) due to regulatory restrictions.
