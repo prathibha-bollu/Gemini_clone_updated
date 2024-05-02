@@ -21,11 +21,11 @@ const Main = () => {
         </div>
             <div className='cards'>
                 <div className='card'>
-                <p>Recommend a place to visit within a 2-hour drive that's known for beautiful waterfalls</p>
+                <p>What are some charming Swiss villages worth visiting</p>
                 <img src={assets.compass_icon} alt=""/>
                 </div>
                 <div className='card'>
-                <p>Summarize the concept </p>
+                <p>What are the Rules of Baseball  </p>
                 <img src={assets.bulb_icon} alt=""/>
                 </div>
                 <div className='card'>
